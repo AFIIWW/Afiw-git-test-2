@@ -8,5 +8,9 @@
 <body>
     <h1>Hello word</h1>
     <p>lorem</p>
+    <ul>
+        <li>Rafi</li>
+        <li>Ganteng</li>
+    </ul>
 </body>
 </html>
